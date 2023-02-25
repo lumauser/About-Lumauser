@@ -25,6 +25,10 @@ p {
     width: 50%;
 }
 
+.message {
+    text-align: center;
+}
+
 .counter {
     text-align: center;
     border: solid;
