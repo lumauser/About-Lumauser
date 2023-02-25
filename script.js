@@ -1,5 +1,5 @@
 const KEY = `ef9f1af2-bac5-11eb-8529-0242ac130003`;
-const NAMESPACE = "devppratik.github.io";
+const NAMESPACE = "lumauser.github.io/About-Lumauser/";
 const COUNT_URL = `https://api.countapi.xyz`;
 
 const counter = document.querySelectorAll('span');
